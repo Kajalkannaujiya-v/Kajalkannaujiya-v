@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kajal Kannaujiya
 
-### B.Tech CSE Student | Aspiring Full Stack Developer | React Enthusiast
+### B.Tech CSE Student | Aspiring Full Stack Developer 
 
 I'm a Computer Science student passionate about Web Development, React, Java, Python, and Data Structures & Algorithms. I enjoy building real-world projects and continuously improving my technical skills.
 
